@@ -1,0 +1,46 @@
+button {
+	width: 180px;
+}
+
+.img-container {
+	height: 200px;
+}
+
+.btn-container {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.image-slide {
+	width: 400px;
+	height: 400px;
+}
+
+.photos {
+	width: 150px;
+	height: 150px;
+}
+
+.image-hide {
+	display: none;
+}
+
+.photos-zoom {
+	width: 200px;
+	height: 200px;
+}
+
+/*.image { 
+   position: relative;
+   display: inline; 
+}
+
+h2 { 
+   position: absolute; 
+   top: 50%;
+   left: 50%;
+   width: 100%; 
+}
+*/
+
+
